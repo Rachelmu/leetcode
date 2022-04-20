@@ -69,3 +69,4 @@ var merge = function(nums1, m, nums2, n) {
     // 表示将nums2数组从下标0位置开始，拷贝到nums1数组中，从下标0位置开始，长度为len2+1
     arrayCopy(nums2, 0, nums1, 0, len2 + 1);
 };
+
